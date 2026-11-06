@@ -1,0 +1,5 @@
+model,random_accuracy,random_precision,random_recall,random_f1,random_auc_roc,unseen_accuracy,unseen_precision,unseen_recall,unseen_f1,unseen_auc_roc
+Naive Bayes,1.0,1.0,1.0,1.0,1.0,0.524,0.5276,0.5318,0.5278,0.6373
+Logistic Regression,1.0,1.0,1.0,1.0,1.0,0.602,0.6978,0.5986,0.6286,0.7586
+Linear SVM,1.0,1.0,1.0,1.0,1.0,0.852,0.8755,0.8749,0.875,0.9169
+Random Forest,1.0,1.0,1.0,1.0,1.0,0.6,0.6163,0.5954,0.6015,0.7447
